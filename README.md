@@ -2,7 +2,7 @@ Okay, I've looked at the file structure in your image. Here's a generalized READ
 
 Markdown
 
-# 🚀 CODSORT Portfolio Task
+# 🚀 CODSOFT Portfolio Task
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Aj22122003/CODSORT_PORTFOLIO_TASK_AJINKYA.K/graphs/commit-activity)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
