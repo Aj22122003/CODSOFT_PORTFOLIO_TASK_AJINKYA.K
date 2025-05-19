@@ -65,7 +65,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 Markdown
 
-# 🚀 CODSORT Portfolio Task
+# 🚀 CODSOFT Portfolio Task
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Aj22122003/CODSORT_PORTFOLIO_TASK_AJINKYA.K/graphs/commit-activity)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
